@@ -31,7 +31,7 @@ QuickBooks Online · Excel · Google Workspace · AI productivity tools · Proce
 
 ## Connect
 - GitHub: [@mgracemercene](https://github.com/mgracemercene)
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
 
 ---
 *This portfolio is a professional work sample. Client names, confidential records, and proprietary information are intentionally excluded.*
